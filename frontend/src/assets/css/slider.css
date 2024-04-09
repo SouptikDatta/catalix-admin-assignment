@@ -1,0 +1,9 @@
+.containerSlide {
+    background-color: #fff;
+    padding: 40px;
+    width: 480px;
+    height: 327px;
+    margin-top: 2rem;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px lightgrey;
+}
